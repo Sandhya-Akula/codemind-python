@@ -8,9 +8,9 @@ def prime(j):
              c=c+1
              break
     if c==0:
-        return True
+       return True
     if c==1:
-        return False
+       return False
 
 m=int(input())
 n=int(input())
